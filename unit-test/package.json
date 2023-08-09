@@ -1,0 +1,22 @@
+{
+  "name": "0-a-experto",
+  "version": "1.0.0",
+  "description": "Este es una carpeta donde estaran todas las secciones del curso de Fernando Herrera \"0 a experto\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aledevme/react-0-to-expert-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aledevme/react-0-to-expert-udemy/issues"
+  },
+  "homepage": "https://github.com/aledevme/react-0-to-expert-udemy#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
