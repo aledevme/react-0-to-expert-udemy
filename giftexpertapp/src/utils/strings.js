@@ -1,0 +1,1 @@
+export const GIPHYAPI = '3IcaAaFTOS7dP8Fm8vWOqEyxTGDkL3Tz'
